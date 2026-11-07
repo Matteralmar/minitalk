@@ -1,5 +1,6 @@
 # minitalk
 
+
 ## 📖 Description
 
 **minitalk** is a small data exchange program that allows two processes to communicate with each other using UNIX signals.
@@ -123,8 +124,4 @@ The server reconstructs the bits and displays the character.
 
 ## 👨‍💻 Author
 
-**Your Login** – 42 Student
-
----
-
-*Made as part of the 42 School Common Core curriculum.*
+gvasylie
