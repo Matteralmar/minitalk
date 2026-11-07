@@ -1,7 +1,5 @@
 # minitalk
 
-*42 School Project*
-
 ## 📖 Description
 
 **minitalk** is a small data exchange program that allows two processes to communicate with each other using UNIX signals.
